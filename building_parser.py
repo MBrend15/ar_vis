@@ -5,12 +5,18 @@ path='/home/salman/Documents/amp_project/client_ap_assoc/amp_data/AMP'
 serial_num_list=[]
 def xml_parser(path):
 	for filename in os.listdir(path):
-		if 'ap_list' in filename:
+		if 'visualrf_building' in filename:
 		    fullname=os.path.join(path,filename)
 		    e = xml.etree.ElementTree.parse(fullname).getroot()
 		    if e!=None:	
-                       for atype in e.findall('ap'):
-         		   ap_id=atype.get('id')
+                       for atype in e.findall('building'):
+         		   ap_name=atype.get('name')
+                           ap_latitude=atype.get('latitude')
+                           ap_longitude=atype.get('longitude')
+                           ap_address=atype.find('address').text
+                           height=atype.get('floor_height_ft')
+
+                           """
                            device_category=atype.find('device_category').text 
                            ##Check if device is of type other category, then serial number does not exist
                            if atype.find('serial_number') != None:
@@ -25,13 +31,9 @@ def xml_parser(path):
                               controller_id=atype.find('controller_id').text
                            else:
                               controller_id=0
+                           """
+                           print(ap_name,ap_latitude,ap_longitude,ap_address,height)
 
-                           print(lan_mac,ap_name,device_category,ser_num,ap_id,controller_id)
-                           #Adding support for the radio mac's might be needed in the future
-                           print "These are the radio mac's" 
-                           for radio_mac in atype.findall('radio'):
-                               radio_index=radio_mac.get('index')                             
-                               radio_mac=radio_mac.find('radio_mac').text               
-                               print (radio_index,radio_mac)                               
+
 
 xml_parser(path)        			                                                                                                                                          
