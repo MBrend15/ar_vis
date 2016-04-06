@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<amp:amp_client_detail version="1" xmlns:amp="http://www.airwave.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.airwave.com amp_client_detail.xsd">
+  <client mac="D0:DF:C7:C1:CC:B0">
+    <assoc_stat>false</assoc_stat>
+    <association id="133144938">
+      <ap id="2581">EGGE-313DA1130B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T11:46:56-05:00</connect_time>
+      <disconnect_time>2016-03-09T12:04:03-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="172.30.31.194" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>3277</vlan>
+    </association>
+    <association id="133116596">
+      <ap id="886">GLCDB-233AP01B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T15:12:55-05:00</connect_time>
+      <disconnect_time>2016-03-08T15:29:58-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.25.128.189" />
+        <lan hostname="-" ip_address="172.25.133.121" />
+        <lan hostname="" ip_address="2607:B400:B4:1A00:C821:2391:FDDA:E7FF" />
+        <lan hostname="" ip_address="FE80::D2DF:C7FF:FEC1:CCB0" />
+      </lan_elements>
+      <radio_mode>N</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>penrose.knowerth@gmail.com</username>
+      <vlan>3203</vlan>
+    </association>
+    <association id="133115971">
+      <ap id="908">GLCDB-364AB1007</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T15:10:10-05:00</connect_time>
+      <disconnect_time>2016-03-08T15:12:55-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.25.128.189" />
+        <lan hostname="-" ip_address="2607:B400:B4:1A00:C821:2391:FDDA:E7FF" />
+        <lan hostname="" ip_address="FE80::D2DF:C7FF:FEC1:CCB0" />
+      </lan_elements>
+      <radio_mode>N</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>penrose.knowerth@gmail.com</username>
+      <vlan>3203</vlan>
+    </association>
+    <auth_stat>false</auth_stat>
+    <radio_mode>n</radio_mode>
+    <rssi>0</rssi>
+    <ssid>CONNECTtoVT-Wireless</ssid>
+    <vendor>Samsung Electronics Co.,Ltd</vendor>
+    <vlan>3277</vlan>
+  </client>
+</amp:amp_client_detail>

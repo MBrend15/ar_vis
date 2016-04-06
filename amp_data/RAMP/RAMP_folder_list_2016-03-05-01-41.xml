@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<amp:amp_folder_list version="1" xmlns:amp="http://www.airwave.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.airwave.com amp_folder_list.xsd">
+  <folder id="53">
+    <bandwidth_in>0</bandwidth_in>
+    <bandwidth_out>0</bandwidth_out>
+    <client_count>0</client_count>
+    <down>0</down>
+    <mismatch>0</mismatch>
+    <name>Aggregation</name>
+    <parent_id>1</parent_id>
+    <up>2</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="2">
+    <bandwidth_in>0</bandwidth_in>
+    <bandwidth_out>0</bandwidth_out>
+    <client_count>0</client_count>
+    <down>0</down>
+    <mismatch>5</mismatch>
+    <name>WLC's</name>
+    <parent_id>1</parent_id>
+    <up>5</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="26">
+    <bandwidth_in>5972139</bandwidth_in>
+    <bandwidth_out>59752947</bandwidth_out>
+    <client_count>231</client_count>
+    <down>0</down>
+    <mismatch>4</mismatch>
+    <name>Lee Hall (LEE)</name>
+    <parent_id>3</parent_id>
+    <up>201</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="27">
+    <bandwidth_in>212485</bandwidth_in>
+    <bandwidth_out>3743814</bandwidth_out>
+    <client_count>48</client_count>
+    <down>0</down>
+    <mismatch>2</mismatch>
+    <name>New Residence Hall East (NRHE)</name>
+    <parent_id>3</parent_id>
+    <up>54</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="28">
+    <bandwidth_in>758275</bandwidth_in>
+    <bandwidth_out>16153462</bandwidth_out>
+    <client_count>56</client_count>
+    <down>0</down>
+    <mismatch>2</mismatch>
+    <name>O'Shaugnessy (OSHA)</name>
+    <parent_id>3</parent_id>
+    <up>90</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="7">
+    <bandwidth_in>0</bandwidth_in>
+    <bandwidth_out>0</bandwidth_out>
+    <client_count>0</client_count>
+    <down>0</down>
+    <mismatch>0</mismatch>
+    <name>Oak Lane</name>
+    <parent_id>1</parent_id>
+    <up>0</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="42">
+    <bandwidth_in>0</bandwidth_in>
+    <bandwidth_out>0</bandwidth_out>
+    <client_count>0</client_count>
+    <down>0</down>
+    <mismatch>0</mismatch>
+    <name>Testing</name>
+    <parent_id>1</parent_id>
+    <up>0</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="50">
+    <bandwidth_in>156471</bandwidth_in>
+    <bandwidth_out>2588190</bandwidth_out>
+    <client_count>19</client_count>
+    <down>0</down>
+    <mismatch>0</mismatch>
+    <name>Sigma Phi Epsilon (SPEH)</name>
+    <parent_id>7</parent_id>
+    <up>15</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="43">
+    <bandwidth_in>44114</bandwidth_in>
+    <bandwidth_out>680908</bandwidth_out>
+    <client_count>9</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Special Purpose Housing I (SPCI)</name>
+    <parent_id>7</parent_id>
+    <up>11</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="34">
+    <bandwidth_in>1796627</bandwidth_in>
+    <bandwidth_out>17086360</bandwidth_out>
+    <client_count>62</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Miles Hall (MILES)</name>
+    <parent_id>6</parent_id>
+    <up>52</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="14">
+    <bandwidth_in>2041</bandwidth_in>
+    <bandwidth_out>2179</bandwidth_out>
+    <client_count>5</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Special Purpose Housing B (SPCB)</name>
+    <parent_id>7</parent_id>
+    <up>12</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="36">
+    <bandwidth_in>311066</bandwidth_in>
+    <bandwidth_out>6089045</bandwidth_out>
+    <client_count>45</client_count>
+    <down>0</down>
+    <mismatch>2</mismatch>
+    <name>Vawter Hall (VAW)</name>
+    <parent_id>6</parent_id>
+    <up>77</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="18">
+    <bandwidth_in>58464</bandwidth_in>
+    <bandwidth_out>734254</bandwidth_out>
+    <client_count>8</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Special Purpose Housing F (SPCF)</name>
+    <parent_id>7</parent_id>
+    <up>11</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="19">
+    <bandwidth_in>11683</bandwidth_in>
+    <bandwidth_out>52507</bandwidth_out>
+    <client_count>6</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Special Purpose Housing G (SPCG)</name>
+    <parent_id>7</parent_id>
+    <up>11</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="13">
+    <bandwidth_in>753</bandwidth_in>
+    <bandwidth_out>1663</bandwidth_out>
+    <client_count>10</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Special Purpose Housing A (SPCA)</name>
+    <parent_id>7</parent_id>
+    <up>12</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="25">
+    <bandwidth_in>144228</bandwidth_in>
+    <bandwidth_out>4720627</bandwidth_out>
+    <client_count>17</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Special Purpose Housing QR (SPCQR)</name>
+    <parent_id>7</parent_id>
+    <up>19</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="44">
+    <bandwidth_in>657846</bandwidth_in>
+    <bandwidth_out>17777979</bandwidth_out>
+    <client_count>120</client_count>
+    <down>0</down>
+    <mismatch>13</mismatch>
+    <name>Ambler Johnston East (EAJ)</name>
+    <parent_id>5</parent_id>
+    <up>85</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="38">
+    <bandwidth_in>4237791</bandwidth_in>
+    <bandwidth_out>63677192</bandwidth_out>
+    <client_count>136</client_count>
+    <down>0</down>
+    <mismatch>2</mismatch>
+    <name>Harper Hall (HARP)</name>
+    <parent_id>5</parent_id>
+    <up>56</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="41">
+    <bandwidth_in>4374058</bandwidth_in>
+    <bandwidth_out>37029359</bandwidth_out>
+    <client_count>124</client_count>
+    <down>0</down>
+    <mismatch>8</mismatch>
+    <name>Graduate Life Center (GLCDB)</name>
+    <parent_id>40</parent_id>
+    <up>98</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="40">
+    <bandwidth_in>0</bandwidth_in>
+    <bandwidth_out>0</bandwidth_out>
+    <client_count>0</client_count>
+    <down>0</down>
+    <mismatch>0</mismatch>
+    <name>Upper Quad</name>
+    <parent_id>1</parent_id>
+    <up>0</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="39">
+    <bandwidth_in>249748</bandwidth_in>
+    <bandwidth_out>7199466</bandwidth_out>
+    <client_count>42</client_count>
+    <down>0</down>
+    <mismatch>15</mismatch>
+    <name>Hillcrest Hall (HILL)</name>
+    <parent_id>5</parent_id>
+    <up>62</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="45">
+    <bandwidth_in>5549138</bandwidth_in>
+    <bandwidth_out>76697413</bandwidth_out>
+    <client_count>311</client_count>
+    <down>0</down>
+    <mismatch>23</mismatch>
+    <name>Ambler Johnston West (WAJ)</name>
+    <parent_id>5</parent_id>
+    <up>122</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="20">
+    <bandwidth_in>106836</bandwidth_in>
+    <bandwidth_out>362375</bandwidth_out>
+    <client_count>6</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Special Purpose Housing H (SPCH)</name>
+    <parent_id>7</parent_id>
+    <up>11</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="35">
+    <bandwidth_in>5304997</bandwidth_in>
+    <bandwidth_out>22300946</bandwidth_out>
+    <client_count>66</client_count>
+    <down>0</down>
+    <mismatch>2</mismatch>
+    <name>Newman Hall (NEW)</name>
+    <parent_id>6</parent_id>
+    <up>64</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="33">
+    <bandwidth_in>368659</bandwidth_in>
+    <bandwidth_out>5895677</bandwidth_out>
+    <client_count>33</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Johnson (JOHN)</name>
+    <parent_id>6</parent_id>
+    <up>49</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="15">
+    <bandwidth_in>609804</bandwidth_in>
+    <bandwidth_out>16367953</bandwidth_out>
+    <client_count>6</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Special Purpose Housing C (SPCC)</name>
+    <parent_id>7</parent_id>
+    <up>12</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="21">
+    <bandwidth_in>140987</bandwidth_in>
+    <bandwidth_out>2079230</bandwidth_out>
+    <client_count>11</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Special Purpose Housing J (SPCJ)</name>
+    <parent_id>7</parent_id>
+    <up>11</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="16">
+    <bandwidth_in>22563</bandwidth_in>
+    <bandwidth_out>24013</bandwidth_out>
+    <client_count>7</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Special Purpose Housing D (SPCD)</name>
+    <parent_id>7</parent_id>
+    <up>11</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="46">
+    <bandwidth_in>417732</bandwidth_in>
+    <bandwidth_out>6516488</bandwidth_out>
+    <client_count>42</client_count>
+    <down>1</down>
+    <mismatch>6</mismatch>
+    <name>New Hall West (NHW)</name>
+    <parent_id>5</parent_id>
+    <up>72</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="47">
+    <bandwidth_in>400451</bandwidth_in>
+    <bandwidth_out>8556185</bandwidth_out>
+    <client_count>67</client_count>
+    <down>0</down>
+    <mismatch>13</mismatch>
+    <name>Pearson Hall</name>
+    <parent_id>40</parent_id>
+    <up>105</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="48">
+    <bandwidth_in>0</bandwidth_in>
+    <bandwidth_out>0</bandwidth_out>
+    <client_count>3</client_count>
+    <down>0</down>
+    <mismatch>0</mismatch>
+    <name>Thomas Hall (THOM)</name>
+    <parent_id>40</parent_id>
+    <up>3</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="22">
+    <bandwidth_in>141258</bandwidth_in>
+    <bandwidth_out>963545</bandwidth_out>
+    <client_count>13</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Special Purpose Housing KL (SPCKL)</name>
+    <parent_id>7</parent_id>
+    <up>18</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="49">
+    <bandwidth_in>416</bandwidth_in>
+    <bandwidth_out>272</bandwidth_out>
+    <client_count>1</client_count>
+    <down>0</down>
+    <mismatch>0</mismatch>
+    <name>Monteith Hall (MON)</name>
+    <parent_id>40</parent_id>
+    <up>2</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="37">
+    <bandwidth_in>11606393</bandwidth_in>
+    <bandwidth_out>63751658</bandwidth_out>
+    <client_count>251</client_count>
+    <down>0</down>
+    <mismatch>3</mismatch>
+    <name>Cochrane Hall (CHRNE)</name>
+    <parent_id>5</parent_id>
+    <up>93</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="23">
+    <bandwidth_in>74051</bandwidth_in>
+    <bandwidth_out>3726308</bandwidth_out>
+    <client_count>16</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Special Purpose Housing MN (SPCMN)</name>
+    <parent_id>7</parent_id>
+    <up>19</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="24">
+    <bandwidth_in>149452</bandwidth_in>
+    <bandwidth_out>4756856</bandwidth_out>
+    <client_count>19</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Special Purpose Housing OP (SPCOP)</name>
+    <parent_id>7</parent_id>
+    <up>19</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="17">
+    <bandwidth_in>1279</bandwidth_in>
+    <bandwidth_out>1906</bandwidth_out>
+    <client_count>10</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Special Purpose Housing E (SPCE)</name>
+    <parent_id>7</parent_id>
+    <up>11</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="52">
+    <bandwidth_in>183711</bandwidth_in>
+    <bandwidth_out>5136947</bandwidth_out>
+    <client_count>23</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Eggleston East (EGGE)</name>
+    <parent_id>4</parent_id>
+    <up>36</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="29">
+    <bandwidth_in>1459258</bandwidth_in>
+    <bandwidth_out>37249985</bandwidth_out>
+    <client_count>70</client_count>
+    <down>0</down>
+    <mismatch>8</mismatch>
+    <name>Payne Hall (PAYNE)</name>
+    <parent_id>3</parent_id>
+    <up>80</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="1">
+    <bandwidth_in>0</bandwidth_in>
+    <bandwidth_out>0</bandwidth_out>
+    <client_count>0</client_count>
+    <down>0</down>
+    <mismatch>0</mismatch>
+    <name>Top</name>
+    <up>0</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="4">
+    <bandwidth_in>0</bandwidth_in>
+    <bandwidth_out>0</bandwidth_out>
+    <client_count>0</client_count>
+    <down>0</down>
+    <mismatch>0</mismatch>
+    <name>Drillfield Quad</name>
+    <parent_id>1</parent_id>
+    <up>0</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="5">
+    <bandwidth_in>0</bandwidth_in>
+    <bandwidth_out>0</bandwidth_out>
+    <client_count>0</client_count>
+    <down>0</down>
+    <mismatch>0</mismatch>
+    <name>Summit Quad</name>
+    <parent_id>1</parent_id>
+    <up>0</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="6">
+    <bandwidth_in>0</bandwidth_in>
+    <bandwidth_out>0</bandwidth_out>
+    <client_count>0</client_count>
+    <down>0</down>
+    <mismatch>0</mismatch>
+    <name>Presidents Quad</name>
+    <parent_id>1</parent_id>
+    <up>0</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="30">
+    <bandwidth_in>11915325</bandwidth_in>
+    <bandwidth_out>59763227</bandwidth_out>
+    <client_count>221</client_count>
+    <down>0</down>
+    <mismatch>7</mismatch>
+    <name>Pritchard (PRIT)</name>
+    <parent_id>3</parent_id>
+    <up>259</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="3">
+    <bandwidth_in>0</bandwidth_in>
+    <bandwidth_out>0</bandwidth_out>
+    <client_count>0</client_count>
+    <down>0</down>
+    <mismatch>0</mismatch>
+    <name>Prairie Quad</name>
+    <parent_id>1</parent_id>
+    <up>0</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="12">
+    <bandwidth_in>1693830</bandwidth_in>
+    <bandwidth_out>49698023</bandwidth_out>
+    <client_count>127</client_count>
+    <down>0</down>
+    <mismatch>5</mismatch>
+    <name>Slusher (SLUSH)</name>
+    <parent_id>4</parent_id>
+    <up>174</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="8">
+    <bandwidth_in>1469666</bandwidth_in>
+    <bandwidth_out>8333335</bandwidth_out>
+    <client_count>26</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Campbell East (CAME)</name>
+    <parent_id>4</parent_id>
+    <up>49</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="32">
+    <bandwidth_in>693403</bandwidth_in>
+    <bandwidth_out>13991616</bandwidth_out>
+    <client_count>66</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Barringer (BAR)</name>
+    <parent_id>6</parent_id>
+    <up>51</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="9">
+    <bandwidth_in>9601084</bandwidth_in>
+    <bandwidth_out>9677160</bandwidth_out>
+    <client_count>58</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Campbell Main (CAMM)</name>
+    <parent_id>4</parent_id>
+    <up>45</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="10">
+    <bandwidth_in>481384</bandwidth_in>
+    <bandwidth_out>8353440</bandwidth_out>
+    <client_count>46</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Eggleston Main (EGGM)</name>
+    <parent_id>4</parent_id>
+    <up>51</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="11">
+    <bandwidth_in>190419</bandwidth_in>
+    <bandwidth_out>6182102</bandwidth_out>
+    <client_count>37</client_count>
+    <down>0</down>
+    <mismatch>1</mismatch>
+    <name>Eggleston West (EGGW)</name>
+    <parent_id>4</parent_id>
+    <up>45</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+  <folder id="31">
+    <bandwidth_in>720479</bandwidth_in>
+    <bandwidth_out>9106617</bandwidth_out>
+    <client_count>45</client_count>
+    <down>0</down>
+    <mismatch>2</mismatch>
+    <name>Peddrew Yates (PY)</name>
+    <parent_id>3</parent_id>
+    <up>55</up>
+    <vpn_client_count>0</vpn_client_count>
+  </folder>
+</amp:amp_folder_list>

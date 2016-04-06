@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<amp:amp_client_detail version="1" xmlns:amp="http://www.airwave.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.airwave.com amp_client_detail.xsd">
+  <client mac="B4:CE:F6:09:F4:B6">
+    <assoc_stat>false</assoc_stat>
+    <association id="133137509">
+      <ap id="896">GLCDB-238AP01B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:16:26-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:25:26-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <vlan>3203</vlan>
+    </association>
+    <association id="133137323">
+      <ap id="1151">CAMM-335TP01B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:07:25-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:16:24-05:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <vlan>3213</vlan>
+    </association>
+    <auth_stat>false</auth_stat>
+    <radio_mode>n</radio_mode>
+    <rssi>0</rssi>
+    <ssid>eduroam</ssid>
+    <vendor>HTC Corporation</vendor>
+    <vlan>3203</vlan>
+  </client>
+</amp:amp_client_detail>

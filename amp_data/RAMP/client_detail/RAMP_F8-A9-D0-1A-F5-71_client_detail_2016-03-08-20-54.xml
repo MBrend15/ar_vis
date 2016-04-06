@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<amp:amp_client_detail version="1" xmlns:amp="http://www.airwave.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.airwave.com amp_client_detail.xsd">
+  <client mac="F8:A9:D0:1A:F5:71">
+    <assoc_stat>false</assoc_stat>
+    <association id="133116269">
+      <ap id="886">GLCDB-233AP01B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T15:13:05-05:00</connect_time>
+      <disconnect_time>2016-03-08T15:20:36-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <vlan>3203</vlan>
+    </association>
+    <association id="133115977">
+      <ap id="886">GLCDB-233AP01B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T15:13:00-05:00</connect_time>
+      <disconnect_time>2016-03-08T15:13:05-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <vlan>3203</vlan>
+    </association>
+    <association id="133115974">
+      <ap id="903">GLCDB-364AA1013</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T15:12:55-05:00</connect_time>
+      <disconnect_time>2016-03-08T15:13:00-05:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <vlan>3203</vlan>
+    </association>
+    <association id="133115916">
+      <ap id="908">GLCDB-364AB1007</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T15:10:35-05:00</connect_time>
+      <disconnect_time>2016-03-08T15:11:05-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <vlan>3203</vlan>
+    </association>
+    <association id="133115896">
+      <ap id="908">GLCDB-364AB1007</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T15:10:21-05:00</connect_time>
+      <disconnect_time>2016-03-08T15:10:25-05:00</disconnect_time>
+      <radio_mode>ac</radio_mode>
+      <ssid>eduroam</ssid>
+      <vlan>3203</vlan>
+    </association>
+    <association id="133115892">
+      <ap id="221">VAW-103TP02B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T15:08:24-05:00</connect_time>
+      <disconnect_time>2016-03-08T15:10:21-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>eduroam</ssid>
+      <vlan>3253</vlan>
+    </association>
+    <auth_stat>false</auth_stat>
+    <radio_mode>n</radio_mode>
+    <rssi>0</rssi>
+    <ssid>eduroam</ssid>
+    <vendor>LG Electronics</vendor>
+    <vlan>3203</vlan>
+  </client>
+</amp:amp_client_detail>

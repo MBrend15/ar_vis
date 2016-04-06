@@ -1,0 +1,1291 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<amp:amp_client_detail version="1" xmlns:amp="http://www.airwave.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.airwave.com amp_client_detail.xsd">
+  <client mac="98:D6:F7:62:F3:A9">
+    <ap id="573">TOR-A25AP03B</ap>
+    <assoc_stat>true</assoc_stat>
+    <association id="818411252">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-11T06:01:45-05:00</connect_time>
+      <disconnect_time>2016-03-11T06:01:45-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="818411245">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-11T06:01:45-05:00</connect_time>
+      <disconnect_time>2016-03-11T06:01:45-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="818410924">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-11T05:46:02-05:00</connect_time>
+      <disconnect_time>2016-03-11T05:57:30-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:558C:9FAD:6E58:2872" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="818409671">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-11T05:36:10-05:00</connect_time>
+      <disconnect_time>2016-03-11T05:36:10-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:558C:9FAD:6E58:2872" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="818409632">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>174600</bytes_used>
+      <connect_time>2016-03-11T05:08:39-05:00</connect_time>
+      <disconnect_time>2016-03-11T05:35:29-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:558C:9FAD:6E58:2872" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <rssi>38</rssi>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="818407709">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-11T05:05:21-05:00</connect_time>
+      <disconnect_time>2016-03-11T05:05:21-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="2607:B400:24:6007:558C:9FAD:6E58:2872" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="818407559">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>21628500</bytes_used>
+      <connect_time>2016-03-10T16:18:51-05:00</connect_time>
+      <disconnect_time>2016-03-11T05:03:15-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:558C:9FAD:6E58:2872" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <rssi>47</rssi>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="818286921">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-10T16:18:41-05:00</connect_time>
+      <disconnect_time>2016-03-10T16:18:41-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="818275788">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>143813400</bytes_used>
+      <connect_time>2016-03-09T14:10:42-05:00</connect_time>
+      <disconnect_time>2016-03-10T15:59:00-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="" ip_address="2607:B400:24:6007:53B:EF5A:9F99:CEAD" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:6C35:9C08:3563:8A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <rssi>40</rssi>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817794515">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>15806400</bytes_used>
+      <connect_time>2016-03-09T09:52:32-05:00</connect_time>
+      <disconnect_time>2016-03-09T13:51:10-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:BCC2:A384:689E:56AC" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <rssi>39</rssi>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817647449">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>2080500</bytes_used>
+      <connect_time>2016-03-09T08:55:54-05:00</connect_time>
+      <disconnect_time>2016-03-09T09:33:09-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:2052:8CB9:B8F9:FD2E" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <rssi>14</rssi>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817620989">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:18:33-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:36:39-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="172.30.121.169" />
+        <lan hostname="" ip_address="172.30.126.71" />
+        <lan hostname="" ip_address="2607:B400:24:6007:49C:C324:F0E1:E677" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817614400">
+      <ap id="2193">LIB-234EA1087L</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:18:04-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:18:33-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="" ip_address="172.30.126.71" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:49C:C324:F0E1:E677" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817614179">
+      <ap id="5266">SQUIR-238CB1024Y</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:17:34-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:18:04-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="" ip_address="172.30.126.71" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:49C:C324:F0E1:E677" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817614030">
+      <ap id="2085">LIB-234FA1029L</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:17:30-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:17:34-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="" ip_address="172.30.126.71" />
+        <lan hostname="" ip_address="2607:B400:24:6007:49C:C324:F0E1:E677" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817614014">
+      <ap id="8535">SQUIR-POLE</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:15:44-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:17:30-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="" ip_address="172.30.126.71" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:49C:C324:F0E1:E677" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817613525">
+      <ap id="682">SQUIR-238DB1078K</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:15:39-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:15:44-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="" ip_address="172.30.126.71" />
+        <lan hostname="" ip_address="2607:B400:24:6007:49C:C324:F0E1:E677" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817613497">
+      <ap id="5769">SQUIR-238BB1050G</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:15:25-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:15:39-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="" ip_address="172.30.126.71" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:49C:C324:F0E1:E677" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817613388">
+      <ap id="646">SQUIR-238DB1058V</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:14:49-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:15:25-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="" ip_address="172.30.126.71" />
+        <lan hostname="" ip_address="2607:B400:24:6007:49C:C324:F0E1:E677" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817613183">
+      <ap id="6256">ARA-423AA1019E</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:12:19-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:14:49-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.169" />
+        <lan hostname="" ip_address="172.30.126.71" />
+        <lan hostname="" ip_address="2607:B400:24:6007:49C:C324:F0E1:E677" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817612162">
+      <ap id="6251">ARA-423AA1025S</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:10:37-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:12:19-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="172.30.121.169" />
+        <lan hostname="" ip_address="172.30.126.71" />
+        <lan hostname="" ip_address="2607:B400:24:6007:49C:C324:F0E1:E677" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <rssi>20</rssi>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817611562">
+      <ap id="230">UCL-105AP01B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:09:14-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:10:37-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="0.0.0.0" />
+      </lan_elements>
+      <radio_mode>bg</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+    </association>
+    <association id="817611172">
+      <ap id="8060">LIBR-OVERHANG</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:08:17-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:09:14-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.126.71" />
+        <lan hostname="" ip_address="2607:B400:24:6007:49C:C324:F0E1:E677" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817610771">
+      <ap id="2089">LIB-234FA1116V</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:07:57-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:08:17-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.126.71" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:49C:C324:F0E1:E677" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817610655">
+      <ap id="1021">GYM-104AP01B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:07:39-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:07:57-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="0.0.0.0" />
+      </lan_elements>
+      <radio_mode>bg</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+    </association>
+    <association id="817610543">
+      <ap id="6528">HUT-106BA1033Y</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:07:11-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:07:39-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="0.0.0.0" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+    </association>
+    <association id="817610408">
+      <ap id="5691">WIL-221BB1043C</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:06:32-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:07:11-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.31.144.210" />
+        <lan hostname="-" ip_address="2001:468:C80:4370:49C:C324:F0E1:E677" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>1370</vlan>
+    </association>
+    <association id="817610228">
+      <ap id="5705">WIL-221BB1025C</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:06:32-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:06:32-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>1370</vlan>
+    </association>
+    <association id="817610225">
+      <ap id="7112">BUR-233CA1038</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:06:30-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:06:32-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.156.121" />
+        <lan hostname="" ip_address="2607:B400:24:A003:49C:C324:F0E1:E677" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="817610197">
+      <ap id="6863">PAT-166BA1027F</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:05:51-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:06:30-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="817610060">
+      <ap id="818">PAT-166BA1013E</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:05:46-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:05:51-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>N</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="817610025">
+      <ap id="1836">HOLD-168CA1074V</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:05:41-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:05:46-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="817609985">
+      <ap id="5594">SEC-270BA1011N</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:05:02-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:05:39-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817609988">
+      <ap id="1930">HOLD-168CA1098M</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-09T08:05:39-05:00</connect_time>
+      <disconnect_time>2016-03-09T08:05:39-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="817501432">
+      <ap id="7854">WHIT-199EA1260L-DUP</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T17:08:19-05:00</connect_time>
+      <disconnect_time>2016-03-08T17:21:34-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.155.229" />
+        <lan hostname="-" ip_address="2607:B400:24:A003:1549:D3BA:EB6A:73DF" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="817493374">
+      <ap id="7854">WHIT-199EA1260L-DUP</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T17:04:30-05:00</connect_time>
+      <disconnect_time>2016-03-08T17:06:40-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.155.229" />
+        <lan hostname="-" ip_address="2607:B400:24:A003:1549:D3BA:EB6A:73DF" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="817493379">
+      <ap id="8780">SAUND-115AA1011R</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T17:06:40-05:00</connect_time>
+      <disconnect_time>2016-03-08T17:06:40-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>1271</vlan>
+    </association>
+    <association id="817492082">
+      <ap id="7133">BFH-870AA1032</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T17:02:36-05:00</connect_time>
+      <disconnect_time>2016-03-08T17:04:30-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>1370</vlan>
+    </association>
+    <association id="817490983">
+      <ap id="8780">SAUND-115AA1011R</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T17:01:39-05:00</connect_time>
+      <disconnect_time>2016-03-08T17:02:36-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>1271</vlan>
+    </association>
+    <association id="817490413">
+      <ap id="5833">MCO-263CA1013R</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T17:00:38-05:00</connect_time>
+      <disconnect_time>2016-03-08T17:01:39-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>1271</vlan>
+    </association>
+    <association id="817489485">
+      <ap id="3084">CAS-257EA1030N</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T16:59:53-05:00</connect_time>
+      <disconnect_time>2016-03-08T17:00:38-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="0.0.0.0" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+    </association>
+    <association id="817489005">
+      <ap id="4093">MED-206AAP01B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T16:57:22-05:00</connect_time>
+      <disconnect_time>2016-03-08T16:59:53-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.83" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:1549:D3BA:EB6A:73DF" />
+        <lan hostname="" ip_address="2607:B400:24:6007:DD0C:D396:BEFE:4236" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817487310">
+      <ap id="6251">ARA-423AA1025S</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T16:56:24-05:00</connect_time>
+      <disconnect_time>2016-03-08T16:57:22-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.83" />
+        <lan hostname="" ip_address="2607:B400:24:6007:1549:D3BA:EB6A:73DF" />
+        <lan hostname="" ip_address="2607:B400:24:6007:DD0C:D396:BEFE:4236" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>N</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817486761">
+      <ap id="646">SQUIR-238DB1058V</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T16:55:35-05:00</connect_time>
+      <disconnect_time>2016-03-08T16:56:24-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.83" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:1549:D3BA:EB6A:73DF" />
+        <lan hostname="" ip_address="2607:B400:24:6007:DD0C:D396:BEFE:4236" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817486365">
+      <ap id="8535">SQUIR-POLE</ap>
+      <bytes_used>46200</bytes_used>
+      <connect_time>2016-03-08T16:53:50-05:00</connect_time>
+      <disconnect_time>2016-03-08T16:55:35-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.83" />
+        <lan hostname="" ip_address="2607:B400:24:6007:1549:D3BA:EB6A:73DF" />
+        <lan hostname="" ip_address="2607:B400:24:6007:DD0C:D396:BEFE:4236" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>N</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817485497">
+      <ap id="2085">LIB-234FA1029L</ap>
+      <bytes_used>46200</bytes_used>
+      <connect_time>2016-03-08T16:53:31-05:00</connect_time>
+      <disconnect_time>2016-03-08T16:53:50-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.83" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:1549:D3BA:EB6A:73DF" />
+        <lan hostname="" ip_address="2607:B400:24:6007:DD0C:D396:BEFE:4236" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817485345">
+      <ap id="5266">SQUIR-238CB1024Y</ap>
+      <bytes_used>46200</bytes_used>
+      <connect_time>2016-03-08T16:53:22-05:00</connect_time>
+      <disconnect_time>2016-03-08T16:53:31-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.83" />
+        <lan hostname="" ip_address="2607:B400:24:6007:1549:D3BA:EB6A:73DF" />
+        <lan hostname="" ip_address="2607:B400:24:6007:DD0C:D396:BEFE:4236" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817485257">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>63727500</bytes_used>
+      <connect_time>2016-03-08T08:20:04-05:00</connect_time>
+      <disconnect_time>2016-03-08T16:53:22-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.83" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:1549:D3BA:EB6A:73DF" />
+        <lan hostname="" ip_address="2607:B400:24:6007:DD0C:D396:BEFE:4236" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <rssi>37</rssi>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817216906">
+      <ap id="8535">SQUIR-POLE</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T08:18:03-05:00</connect_time>
+      <disconnect_time>2016-03-08T08:20:04-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.83" />
+        <lan hostname="" ip_address="2607:B400:24:6007:DD0C:D396:BEFE:4236" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>N</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817216127">
+      <ap id="6251">ARA-423AA1025S</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T08:13:26-05:00</connect_time>
+      <disconnect_time>2016-03-08T08:18:03-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.83" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:DD0C:D396:BEFE:4236" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817214600">
+      <ap id="709">SQUIR-238CA1075C</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T08:12:57-05:00</connect_time>
+      <disconnect_time>2016-03-08T08:13:26-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="817214452">
+      <ap id="6129">HEND-237AA1013Y</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-08T08:12:42-05:00</connect_time>
+      <disconnect_time>2016-03-08T08:12:57-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="816583096">
+      <ap id="1132">UGC-861CA1726S</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-05T19:28:45-05:00</connect_time>
+      <disconnect_time>2016-03-05T19:28:45-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.31.31.239" />
+        <lan hostname="-" ip_address="2001:468:C80:4221:45AB:D539:235B:6DA8" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>1221</vlan>
+    </association>
+    <association id="816581893">
+      <ap id="8060">LIBR-OVERHANG</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-05T19:14:49-05:00</connect_time>
+      <disconnect_time>2016-03-05T19:21:19-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.41" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:45AB:D539:235B:6DA8" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="816580734">
+      <ap id="2092">LIB-234EA1066K</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-05T19:14:44-05:00</connect_time>
+      <disconnect_time>2016-03-05T19:14:49-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.41" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:45AB:D539:235B:6DA8" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="816580723">
+      <ap id="463">SEC-270BA1001B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-05T19:13:44-05:00</connect_time>
+      <disconnect_time>2016-03-05T19:14:44-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.121.41" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:45AB:D539:235B:6DA8" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="816580539">
+      <ap id="5594">SEC-270BA1011N</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-05T19:13:39-05:00</connect_time>
+      <disconnect_time>2016-03-05T19:13:44-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>N</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="816580528">
+      <ap id="1132">UGC-861CA1726S</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-05T19:11:11-05:00</connect_time>
+      <disconnect_time>2016-03-05T19:13:39-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.31.31.239" />
+        <lan hostname="" ip_address="2001:468:C80:4221:45AB:D539:235B:6DA8" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>1221</vlan>
+    </association>
+    <association id="816580082">
+      <ap id="1125">UGC-861CA1708K</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-05T19:10:46-05:00</connect_time>
+      <disconnect_time>2016-03-05T19:11:11-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.31.31.239" />
+        <lan hostname="-" ip_address="2001:468:C80:4221:45AB:D539:235B:6DA8" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>1221</vlan>
+    </association>
+    <association id="816237763">
+      <ap id="8578">FEM-167CA1231F</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-04T16:21:19-05:00</connect_time>
+      <disconnect_time>2016-03-04T16:26:54-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.178" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:45AB:D539:235B:6DA8" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="816230246">
+      <ap id="7896">WHIT-199BA1251H</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-04T16:13:43-05:00</connect_time>
+      <disconnect_time>2016-03-04T16:18:44-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.178" />
+        <lan hostname="" ip_address="2607:B400:24:A003:45AB:D539:235B:6DA8" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <rssi>14</rssi>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="816224863">
+      <ap id="7253">BUR-233BB1169</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-04T16:11:42-05:00</connect_time>
+      <disconnect_time>2016-03-04T16:13:43-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.178" />
+        <lan hostname="" ip_address="2607:B400:24:A003:45AB:D539:235B:6DA8" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="816223080">
+      <ap id="8723">HOLD-168BA1047T</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-04T16:10:42-05:00</connect_time>
+      <disconnect_time>2016-03-04T16:11:42-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.178" />
+        <lan hostname="-" ip_address="2607:B400:24:A003:45AB:D539:235B:6DA8" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="816221885">
+      <ap id="8578">FEM-167CA1231F</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-04T16:09:53-05:00</connect_time>
+      <disconnect_time>2016-03-04T16:10:42-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.178" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:45AB:D539:235B:6DA8" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="816221168">
+      <ap id="8705">HOLD-168CA1084D</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-04T16:09:24-05:00</connect_time>
+      <disconnect_time>2016-03-04T16:09:53-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="172.30.125.178" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="816220645">
+      <ap id="8737">HOLD-168CA1100S</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-04T16:08:07-05:00</connect_time>
+      <disconnect_time>2016-03-04T16:09:24-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="172.30.125.178" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="816219267">
+      <ap id="2359">TOR-2040J-AP01</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-04T16:07:41-05:00</connect_time>
+      <disconnect_time>2016-03-04T16:08:07-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.178" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:45AB:D539:235B:6DA8" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="816218910">
+      <ap id="7825">LIB-234BA1152H</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-04T16:06:01-05:00</connect_time>
+      <disconnect_time>2016-03-04T16:07:41-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.178" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:45AB:D539:235B:6DA8" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="816217390">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>461400</bytes_used>
+      <connect_time>2016-03-04T15:44:29-05:00</connect_time>
+      <disconnect_time>2016-03-04T16:06:01-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.178" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:45AB:D539:235B:6DA8" />
+      </lan_elements>
+      <radio_mode>N</radio_mode>
+      <rssi>30</rssi>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="816195002">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>1025100</bytes_used>
+      <connect_time>2016-03-04T14:59:19-05:00</connect_time>
+      <disconnect_time>2016-03-04T15:44:29-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.178" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:45AB:D539:235B:6DA8" />
+      </lan_elements>
+      <radio_mode>N</radio_mode>
+      <rssi>34</rssi>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>172.30.125.178</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="816141960">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-04T14:59:05-05:00</connect_time>
+      <disconnect_time>2016-03-04T14:59:10-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="816049044">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>881400</bytes_used>
+      <connect_time>2016-03-04T13:20:48-05:00</connect_time>
+      <disconnect_time>2016-03-04T13:57:38-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.178" />
+        <lan hostname="" ip_address="2607:B400:24:6007:301A:EFAA:AA9D:5DE7" />
+        <lan hostname="" ip_address="2607:B400:24:6007:90CA:DD5D:6731:4997" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:ECA9:4941:17FA:6618" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <rssi>21</rssi>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="815990838">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-04T13:20:43-05:00</connect_time>
+      <disconnect_time>2016-03-04T13:20:43-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="815912966">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>945600</bytes_used>
+      <connect_time>2016-03-04T11:54:40-05:00</connect_time>
+      <disconnect_time>2016-03-04T12:45:40-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.178" />
+        <lan hostname="" ip_address="2607:B400:24:6007:158A:F4BA:561D:CA3A" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:64DF:8E4C:A31F:12AD" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>N</radio_mode>
+      <rssi>14</rssi>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="815796117">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-04T11:54:39-05:00</connect_time>
+      <disconnect_time>2016-03-04T11:54:39-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="815785972">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>5234700</bytes_used>
+      <connect_time>2016-03-04T11:21:19-05:00</connect_time>
+      <disconnect_time>2016-03-04T11:48:41-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.178" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:65C2:99E5:7F6E:849D" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="815746829">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>302100</bytes_used>
+      <connect_time>2016-03-04T10:17:24-05:00</connect_time>
+      <disconnect_time>2016-03-04T11:21:19-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.178" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:65C2:99E5:7F6E:849D" />
+      </lan_elements>
+      <radio_mode>N</radio_mode>
+      <rssi>33</rssi>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="814543313">
+      <ap id="7891">WHIT-1299BA1249D</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T14:36:02-05:00</connect_time>
+      <disconnect_time>2016-03-03T14:52:48-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.157.36" />
+        <lan hostname="" ip_address="2607:B400:24:A003:65C2:99E5:7F6E:849D" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="814506487">
+      <ap id="7892">WHIT-199BA1261D</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T14:35:12-05:00</connect_time>
+      <disconnect_time>2016-03-03T14:36:02-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.157.36" />
+        <lan hostname="" ip_address="2607:B400:24:A003:65C2:99E5:7F6E:849D" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="814505089">
+      <ap id="7896">WHIT-199BA1251H</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T14:34:04-05:00</connect_time>
+      <disconnect_time>2016-03-03T14:35:12-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.157.36" />
+        <lan hostname="" ip_address="2607:B400:24:A003:65C2:99E5:7F6E:849D" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="814502773">
+      <ap id="7675">WHIT-199BA1335T</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T14:33:47-05:00</connect_time>
+      <disconnect_time>2016-03-03T14:34:04-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.157.36" />
+        <lan hostname="" ip_address="2607:B400:24:A003:65C2:99E5:7F6E:849D" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="814501898">
+      <ap id="7836">WHI-199BA1271U</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T14:33:39-05:00</connect_time>
+      <disconnect_time>2016-03-03T14:33:47-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="814500924">
+      <ap id="823">COW-230CA1279B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T14:32:59-05:00</connect_time>
+      <disconnect_time>2016-03-03T14:33:39-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.31.146.129" />
+        <lan hostname="" ip_address="2001:468:C80:4370:65C2:99E5:7F6E:849D" />
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>1370</vlan>
+    </association>
+    <association id="814500055">
+      <ap id="3905">COW-230CA1136X</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T14:32:46-05:00</connect_time>
+      <disconnect_time>2016-03-03T14:32:59-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.31.146.129" />
+        <lan hostname="-" ip_address="2001:468:C80:4370:65C2:99E5:7F6E:849D" />
+        <lan hostname="" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>1370</vlan>
+    </association>
+    <association id="814499382">
+      <ap id="7247">BUR-233BA1009G</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T14:31:55-05:00</connect_time>
+      <disconnect_time>2016-03-03T14:32:46-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="FE80::9AD6:F7FF:FE62:F3A9" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="814497700">
+      <ap id="8705">HOLD-168CA1084D</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T14:26:54-05:00</connect_time>
+      <disconnect_time>2016-03-03T14:31:55-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2920</vlan>
+    </association>
+    <association id="814488484">
+      <ap id="2092">LIB-234EA1066K</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T14:26:38-05:00</connect_time>
+      <disconnect_time>2016-03-03T14:26:54-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.69" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:65C2:99E5:7F6E:849D" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="814487827">
+      <ap id="2101">LIB-234CA1132L</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T14:26:13-05:00</connect_time>
+      <disconnect_time>2016-03-03T14:26:38-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.69" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:65C2:99E5:7F6E:849D" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="814487187">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T14:21:19-05:00</connect_time>
+      <disconnect_time>2016-03-03T14:26:13-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.69" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:65C2:99E5:7F6E:849D" />
+      </lan_elements>
+      <radio_mode>N</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="814479341">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T14:02:20-05:00</connect_time>
+      <disconnect_time>2016-03-03T14:21:19-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.69" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:65C2:99E5:7F6E:849D" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <rssi>40</rssi>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="814422307">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T14:02:07-05:00</connect_time>
+      <disconnect_time>2016-03-03T14:02:07-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="-" ip_address="2607:B400:24:6007:65C2:99E5:7F6E:849D" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <association id="814386310">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T13:41:19-05:00</connect_time>
+      <disconnect_time>2016-03-03T13:52:40-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.69" />
+        <lan hostname="" ip_address="2607:B400:24:6007:85FD:4499:F6CA:68F5" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:B539:4BB4:7E2A:23BC" />
+      </lan_elements>
+      <radio_mode>N</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="814348358">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T13:20:09-05:00</connect_time>
+      <disconnect_time>2016-03-03T13:41:19-05:00</disconnect_time>
+      <lan_elements>
+        <lan hostname="" ip_address="172.30.125.69" />
+        <lan hostname="-" ip_address="2607:B400:24:6007:85FD:4499:F6CA:68F5" />
+      </lan_elements>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <username>jhorgleson@gmail.com</username>
+      <vlan>2916</vlan>
+    </association>
+    <association id="814026491">
+      <ap id="573">TOR-A25AP03B</ap>
+      <bytes_used>0</bytes_used>
+      <connect_time>2016-03-03T11:54:08-05:00</connect_time>
+      <disconnect_time>2016-03-03T11:54:11-05:00</disconnect_time>
+      <radio_mode>n</radio_mode>
+      <ssid>CONNECTtoVT-Wireless</ssid>
+      <vlan>2916</vlan>
+    </association>
+    <auth_stat>false</auth_stat>
+    <connect_time>2016-03-11T06:05:31-05:00</connect_time>
+    <device_type>Android</device_type>
+    <lan_elements>
+      <lan hostname="" ip_address="172.30.121.169" />
+      <lan hostname="" ip_address="2607:B400:24:6007:558C:9FAD:6E58:2872" />
+    </lan_elements>
+    <radio_mode>n</radio_mode>
+    <rssi>44</rssi>
+    <signal>-43</signal>
+    <snr>44</snr>
+    <ssid>CONNECTtoVT-Wireless</ssid>
+    <username>jhorgleson@gmail.com</username>
+    <vendor>LG Electronics</vendor>
+    <vlan>2916</vlan>
+  </client>
+</amp:amp_client_detail>
