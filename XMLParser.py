@@ -14,7 +14,7 @@ import glob
 import fnmatch
 import os
 from datetime import datetime
-import xlsxwriter
+
 ##############################################################################################################################################################
 #optional functions
 
@@ -83,7 +83,7 @@ def parse_file(FileName):
             ass_prop = []
             #find all instances of an association and pull client mac, assoc id, conn and disconn times
             for Assoc in child.findall('association'):
-                ass_prop.clear()
+                del ass_prop[:]
                 ass_id =  Assoc.get('id')
                 apid = Assoc[0].text
                 start = Assoc[2].text
@@ -102,7 +102,7 @@ def parse_file(FileName):
             
                     #iterate to discover and then write all lan addresses
                 for LAN in Assoc.findall('lan_elements'):
-                    lan_addr.clear()
+                    del lan_addr[:]
                     for lan_ele in LAN.findall('lan'):
                         lan_addr.append(lan_ele.get('ip_address'))                
                 
@@ -141,12 +141,18 @@ def file_purge(file_name):
 
 
 #############################################################################################################################################################
-#main 
+#main
+
+print datetime.now().time() 
 master_dict = {}
-#file_purge('D:\Documents\ECE Project_Thesis\\amp_data\\amp_data\AMP\client_detail')
-#file_purge('D:\Documents\ECE Project_Thesis\\amp_data\\amp_data\RAMP\client_detail')
-master_dict = parse_file('D:\Documents\ECE Project_Thesis\\amp_data\\amp_data\AMP\client_detail')
-master_dict = parse_file('D:\Documents\ECE Project_Thesis\\amp_data\\amp_data\RAMP\client_detail')
+#file_purge('/home/brendan/Documents/ar_vis/.git/amp_data/AMP/client_detail')
+file_purge('/home/brendan/Documents/ar_vis/.git/amp_data/RAMP/client_detail')
+master_dict = parse_file('/home/brendan/Documents/ar_vis/.git/amp_data/AMP/client_detail')
+master_dict = parse_file('/home/brendan/Documents/ar_vis/.git/amp_data/RAMP/client_detail')
+print master_dict['F8:A9:D0:1A:F5:71_2016-02-22T09:50:43-05:00_TOR-A25AP03B']	
+print datetime.now().time() 
+print master_dict['F8:A9:D0:1A:F5:71_2016-02-20T19:11:49-05:00_T101-878BA1035A']	
+
 
 ##############################################################################################################################################################
 #rubbish
