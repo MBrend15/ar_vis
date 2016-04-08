@@ -15,6 +15,9 @@ import fnmatch
 import os
 from datetime import datetime
 
+#define master dictionary to use throughout
+master_dict = {}
+
 ##############################################################################################################################################################
 #optional functions
 
@@ -79,11 +82,14 @@ def parse_file(FileName):
             apid = ''
             start = ''
             stop = ''
-            lan_addr = []
-            ass_prop = []
+            
+            
             #find all instances of an association and pull client mac, assoc id, conn and disconn times
             for Assoc in child.findall('association'):
-                del ass_prop[:]
+                
+		lan_addr = []
+           	ass_prop = []
+
                 ass_id =  Assoc.get('id')
                 apid = Assoc[0].text
                 start = Assoc[2].text
@@ -101,8 +107,7 @@ def parse_file(FileName):
                 client_key = mac_addr+'_'+start+'_'+apid
             
                     #iterate to discover and then write all lan addresses
-                for LAN in Assoc.findall('lan_elements'):
-                    del lan_addr[:]
+                for LAN in Assoc.findall('lan_elements'):               
                     for lan_ele in LAN.findall('lan'):
                         lan_addr.append(lan_ele.get('ip_address'))                
                 
@@ -111,10 +116,10 @@ def parse_file(FileName):
 
                 #add collection to dictionary with key as concatenation of apid_mac_start
                 global master_dict 
-                master_dict = add2Dict(master_dict, client_key, ass_prop)                                                                        
+                add2Dict(master_dict, client_key, ass_prop)                                                                        
     
     #return a copy of the master dictionary                        
-    return master_dict;            
+    return 0;            
 
 def add2Dict(sampDic, term, info_collec):     
     #is term already in dictionary? 
@@ -124,7 +129,7 @@ def add2Dict(sampDic, term, info_collec):
         sampDic[term] = info_collec
     #else: 
     #    print('Did not add')
-    return sampDic
+    return 0
 
 #create function that purges main directory of irrelevant files
 def file_purge(file_name):
@@ -144,11 +149,10 @@ def file_purge(file_name):
 #main
 
 print datetime.now().time() 
-master_dict = {}
 #file_purge('/home/brendan/Documents/ar_vis/.git/amp_data/AMP/client_detail')
 file_purge('/home/brendan/Documents/ar_vis/.git/amp_data/RAMP/client_detail')
-master_dict = parse_file('/home/brendan/Documents/ar_vis/.git/amp_data/AMP/client_detail')
-master_dict = parse_file('/home/brendan/Documents/ar_vis/.git/amp_data/RAMP/client_detail')
+parse_file('/home/brendan/Documents/ar_vis/.git/amp_data/AMP/client_detail')
+parse_file('/home/brendan/Documents/ar_vis/.git/amp_data/RAMP/client_detail')
 print master_dict['F8:A9:D0:1A:F5:71_2016-02-22T09:50:43-05:00_TOR-A25AP03B']	
 print datetime.now().time() 
 print master_dict['F8:A9:D0:1A:F5:71_2016-02-20T19:11:49-05:00_T101-878BA1035A']	
